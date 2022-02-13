@@ -60,7 +60,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Ja<span class="highlight">mmm</span>ing</h1>
+        <h1><img src="favicon.ico" alt="navbar-logo" id="navbar-logo" />save<span class="highlight">MY</span>jam</h1>
         <div class="App">
           <SearchBar onSearch={this.search}/>
           <div class="App-playlist">

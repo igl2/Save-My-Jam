@@ -1,5 +1,5 @@
 let accessToken;
-const clientId = ''; // client ID goes in here
+const clientId = ''; // Client ID not provided due to privacy reasons
 const redirectUri = 'http://localhost:3000';
 
 const Spotify = {

@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# Save My Jam
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Description
+I built this project to utilize what I've learned so far in the 'Front-End Engineering' course path at Codecademy. 
+Credits to Codecademy for helping me build this project. This project allows you to search songs, albums, or artists from the Spotify library.
+You can add the displayed songs to a custom playlist and save it to your own Spotify account.
+
+## Features
+- Searches the Spotify library
+- Allows users to add searched songs a custom playlist
+- Allows users to save the custom playlist to their Spotify account
+
+## Technologies
+- HTML5
+- CSS3
+- React
+- Spotify API
+
+## Collaborators
+- Codecademy
+- Myself
+
+## How to use
+Simply click on the link provided in the About section -->
+
+or
 
 ## Available Scripts
 

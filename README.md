@@ -13,10 +13,10 @@ You can add the displayed songs to a custom playlist and save it to your own Spo
 - Allows users to save the custom playlist to their Spotify account
 
 ## Technologies
-- HTML5
-- CSS3
-- React
-- Spotify API
+- HTML5 - Served as the skeleton of the application
+- CSS3 - Served as the styling for the application
+- React - The framework used to organize components of the application
+- Spotify API - Third party API used to fetch songs to the application
 
 ## Collaborators
 - Codecademy

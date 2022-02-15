@@ -19,8 +19,8 @@ You can add the displayed songs to a custom playlist and save it to your own Spo
 - Spotify API - Third party API used to fetch songs to the application
 
 ## Collaborators
-- Codecademy
-- Myself
+- Myself - The title (Save My Jam), color scheme, and logo was my addition
+- Codecademy - I credit the rest of the features to Codecademy
 
 ## How to use
 Simply click on the link provided in the About section -->

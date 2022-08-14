@@ -1,0 +1,50 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+html {
+  font-size: 18px;
+}
+
+h1 {
+  padding: .77rem 0;
+  background-color: #0b6aa2;
+  text-align: left;
+  padding-left: 10px;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 1.88rem;
+  color: rgb(30, 218, 202);
+}
+
+h1 .highlight {
+  color: #dbdfe7;
+}
+
+h2 {
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 1.55rem;
+}
+
+.App {
+  height: 100%;
+  padding: 0 17% 10% 17%;
+  background: linear-gradient(#08aeb9, #1187cc);
+  font-family: 'PT Sans Caption', sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+
+.App-playlist {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+@media only screen and (max-width: 1020px) {
+  .App-playlist {
+    align-items: center;
+    flex-direction: column;
+  }
+}

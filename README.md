@@ -18,15 +18,6 @@ You can add the displayed songs to a custom playlist and save it to your own Spo
 - React - The framework used to organize components of the application
 - Spotify API - Third party API used to fetch songs to the application
 
-## Collaborators
-- Myself - The title (Save My Jam), color scheme, and logo was my addition
-- Codecademy - I credit the rest of the features to Codecademy
-
-## How to use
-Simply click on the link provided in the About section -->
-
-or
-
 ## Available Scripts
 
 In the project directory, you can run:
